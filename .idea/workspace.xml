@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54f91162-b246-40d2-a5c0-f455729c35ca" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2TyoS09UxohgLkobCjmFUu3IazP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowPython Console.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Excel (xlsx)",
+    "last_opened_file_path": "C:/Users/lucam/Documents/Unicatt/IT Coding/TravelTimeEstimation/Travel time estimation_Notebook.ipynb",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.black.configuration.BlackFormatterConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Jupyter"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucam\Documents\Unicatt\IT Coding\TravelTimeEstimation" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54f91162-b246-40d2-a5c0-f455729c35ca" name="Changes" comment="" />
+      <created>1692024678001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692024678001</updated>
+      <workItem from="1692024679047" duration="1320000" />
+      <workItem from="1692110758704" duration="8232000" />
+      <workItem from="1692120269284" duration="230000" />
+      <workItem from="1692120514773" duration="118000" />
+      <workItem from="1692196481029" duration="7199000" />
+      <workItem from="1692259351960" duration="39000" />
+      <workItem from="1692259405102" duration="11597000" />
+      <workItem from="1692278893443" duration="5377000" />
+      <workItem from="1692284360498" duration="1314000" />
+      <workItem from="1692458756534" duration="5608000" />
+      <workItem from="1692464620196" duration="2321000" />
+      <workItem from="1692467333458" duration="1467000" />
+      <workItem from="1692522432091" duration="14349000" />
+      <workItem from="1693037449954" duration="596000" />
+      <workItem from="1693491244349" duration="10119000" />
+      <workItem from="1693502406061" duration="866000" />
+      <workItem from="1693549218207" duration="10039000" />
+      <workItem from="1693560751309" duration="857000" />
+      <workItem from="1693562545805" duration="467000" />
+      <workItem from="1693574938172" duration="13153000" />
+      <workItem from="1693642156115" duration="8088000" />
+      <workItem from="1693658450642" duration="12343000" />
+      <workItem from="1693671109055" duration="55000" />
+      <workItem from="1693682465388" duration="4298000" />
+      <workItem from="1693725451993" duration="13188000" />
+      <workItem from="1693746688126" duration="527000" />
+      <workItem from="1693749090103" duration="6731000" />
+      <workItem from="1693831281141" duration="9643000" />
+      <workItem from="1693842307912" duration="363000" />
+      <workItem from="1693842683036" duration="5929000" />
+      <workItem from="1693903921306" duration="13165000" />
+      <workItem from="1693926827804" duration="445000" />
+      <workItem from="1694073745456" duration="1012000" />
+      <workItem from="1694075559763" duration="12608000" />
+      <workItem from="1694116425051" duration="3631000" />
+      <workItem from="1694161061806" duration="4873000" />
+      <workItem from="1694166000754" duration="1169000" />
+      <workItem from="1694177403343" duration="11353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
