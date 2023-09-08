@@ -1,0 +1,8 @@
+geopy
+requests
+folium
+collections
+pandas
+plotly
+sklearn
+numpy
