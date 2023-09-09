@@ -1,6 +1,11 @@
 # TravelTimeEstimation
 Second module project - IT Coding for Data Science - instructor: Dr. Pozzi
 
+### Student
+- Full Name: Migliori Luca
+- StudentID: 52058800
+- email: luca.migliori01@icatt.it
+
 ### Introduction
 This work aims at designing a tool to estimate the travel time between two points by **car**, based on the route conditions such as types, surfaces and distances in the route. The tool makes use of several APIs, specifically: the openrouteservice API (providing encoded route, details and instructions), the TomTom API (providing traffic conditions) and the OpenStreetMap API (providing the coordinates of the starting and destination points). The tool is designed to be used in a Jupyter Notebook environment, and it is divided in <u>three main sections</u>:
 - The first one is the **input section**, where the user is asked to provide the starting and destination addresses, as well as the language of the instructions.
